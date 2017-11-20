@@ -1,0 +1,7 @@
+.vs/
+debug/
+DXFIndexer/bin/
+DXFIndexer/obj/
+packages/
+lib/Sitecore.*
+release/
