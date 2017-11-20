@@ -1,17 +1,18 @@
 ### What is it? ###
-Some Pipeline Steps and Endpoints for Sitecore Data Exchange Framework
+Some Pipeline Steps and Endpoints for Sitecore Data Exchange Framework.
+_And yes against my better judgement, I named it using DXF instead of DEF..._
 
 ### What does it do? ###
 
 Dual Purpose:
-- It's a demo project hopefully illustrating how to setup your own custom DXF Pipelines, Endpoints, and Pipeline Steps
+- It's a demo project hopefully illustrating how to setup your own custom DEF Pipelines, Endpoints, and Pipeline Steps
 - It's a working proof of concept project that takes an External data feed (in this case RSS) and, using the `BaseIndexable` class, writes the external feed to an index for later consumption
 
 ### What do I need for it? ###
 
 - Sitecore
-- Sitecore DXF: https://dev.sitecore.net/Downloads/Data_Exchange_Framework.aspx
-- The package (in `Sitecore Packages`).  Has been tested on 8.1, 8.2, and should work on 9 (given the correct DXF installs)
+- Sitecore DEF: https://dev.sitecore.net/Downloads/Data_Exchange_Framework.aspx
+- The package (in `Sitecore Packages`).  Has been tested on 8.1, 8.2, and should work on 9 (given the correct DEF installs)
 
 
 ### What do I need if for? ###
