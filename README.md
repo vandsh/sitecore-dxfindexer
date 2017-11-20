@@ -17,7 +17,7 @@ Dual Purpose:
 ### What do I need if for? ###
 
 - The example in the project uses a RSS feed for an example external datasource, but a real-world use case would be pulling in job details form an external job application service such as Kenexa
-- The idea behind the `Index Enpoint` is to bring in a mostly-read-only datastore without bringing it in to the content tree.  Using an index in this fashion allows you to still use the `CcontentSearch` api
+- The idea behind the `Index Endpoint` is to bring in a mostly-read-only datastore without bringing it in to the content tree.  Using an index in this fashion allows you to still use the `ContentSearch` api
 
 ### How do I use it ###
 Should be as easy as:
@@ -33,5 +33,8 @@ Should be as easy as:
 1. Run the Pipeline Batch at `/sitecore/system/Data Exchange/DXFIndexer/Pipeline Batches/Process RSS Pipeline` 
 
 Screenshot: 
+The Pipeline Batch
 ![alt text](https://github.com/vandsh/sitecore-dxfindexer/raw/master/dxfScreenshot1.png "The Pipeline Batch")
+
+The Tags pulled in from the RSS feed
 ![alt text](https://github.com/vandsh/sitecore-dxfindexer/raw/master/dxfScreenshot2.png "The Associated Tags")
