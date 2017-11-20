@@ -33,8 +33,11 @@ Should be as easy as:
 1. Run the Pipeline Batch at `/sitecore/system/Data Exchange/DXFIndexer/Pipeline Batches/Process RSS Pipeline` 
 
 Screenshot: 
+
 The Pipeline Batch
+
 ![alt text](https://github.com/vandsh/sitecore-dxfindexer/raw/master/dxfScreenshot1.png "The Pipeline Batch")
 
 The Tags pulled in from the RSS feed
+
 ![alt text](https://github.com/vandsh/sitecore-dxfindexer/raw/master/dxfScreenshot2.png "The Associated Tags")
