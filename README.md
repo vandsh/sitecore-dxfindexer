@@ -9,8 +9,10 @@ Dual Purpose:
 
 ### What do I need for it? ###
 
-- Sitecore and the package at a minimum.  Has been tested on 8.1, 8.2, and should work on 9 (given the correct DXF installs)
-- Sitecore DXF; https://dev.sitecore.net/Downloads/Data_Exchange_Framework.aspx
+- Sitecore
+- Sitecore DXF: https://dev.sitecore.net/Downloads/Data_Exchange_Framework.aspx
+- The package (in `Sitecore Packages`).  Has been tested on 8.1, 8.2, and should work on 9 (given the correct DXF installs)
+
 
 ### What do I need if for? ###
 
